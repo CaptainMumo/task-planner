@@ -1,2 +1,4 @@
 add numbering
 disable adding blank task
+
+Box-sizing: border box vs content box
